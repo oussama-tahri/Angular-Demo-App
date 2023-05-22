@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ASUS",
+      "price": 15000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "DELL",
+      "price": 20000,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "MACBOOK",
+      "price": 30000,
+      "checked": false
+    }
+  ]
+}
